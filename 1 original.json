@@ -1,0 +1,52 @@
+{
+    "id": "4",
+    "title": "The DRSABCD Approach",
+    "videoURL": "",
+    "meta": "",
+    "notes": "",
+    "closingText": "",
+    "emergencyInformation": "",
+    "shortDesc": "",
+    "priorities": [
+      "Early identification",
+      "Early call for help",
+      "Early CPR",
+      "Early Defibrillation"
+    ],
+    "do": "",
+    "think": "",
+    "immediateCall": "false",
+    "stepCounter": "3",
+    "step": [
+      {
+        "currentCount": "D",
+        "text": "||800|Danger:|| What are the risks to rescuer, patient, or bystanders? What are the risks to rescuer, patient, or bystanders?",
+        "completed": "",
+        "conditional": false,
+          "immediateCall": false
+
+      },
+      {
+        "currentCount": "R",
+        "text": {},
+        "completed": "",
+        "question": "",
+        "response": [
+          {
+            "button1": [
+              {
+                "displayText": "YES",
+                "gotoNext": ""
+              }
+            ],
+            "button2": [
+              {
+                "displayText": "YES",
+                "gotoNext": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+,
+        {
+            "club": {
+                "id": "5",
+                "clubName": "",
+                "email": "",
+                "website": "",
+                "phone": "",
+                "address": {
+                    "physical": "",
+                    "postal": ""
+                },
+                "contact": [{
+                    "name": "",
+                    "phone": "",
+                    "email": ""
+                }]
+            }
+        }

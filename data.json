@@ -1,0 +1,1622 @@
+{
+  "First-Aid": {
+    "presentation": [{
+      "id": "1",
+      "title": "The DRSABCD Approach",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "Early identification",
+        "Early call for help",
+        "Early CPR",
+        "Early Defibrillation"
+      ],
+      "do": "Dangers, Responsive, Send for help. Open Airway, Normal Breathing, Start CPR, Attach Defibrillator",
+      "think": "In most arrests due to drowning, anaphylaxis, asthma, head injury, and almost all arrests in children, the most critical intervention is prompt and effective ventilations as soon as possible. In most adult sudden cardiac arrests, the most critical interventions are immediate CPR and AED use as soon as available.Think about the cause.  \n\nSee ||#15|Bleeding||, ||#11|Intoxication / Overdose||, ||#6|Anaphylaxis||, ||#4|Drowning||, ||#7|Choking|| sections.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "D",
+          "text": "||p1|Danger:|| What are the risks to rescuer, patient, or bystanders?",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "R",
+          "text": "||p1|Response:|| Introduce yourself and ask the patient’s name. Is the patient Alert, reacting to Voice, reacting to Pain, or Unresponsive (AVPU)?",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "S",
+          "text": "||p1|Send for help:|| Call early. Use closed-loop communication. Tell your helper to return after help is contacted.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "A",
+          "text": "||p1|Airway:|| Head-tilt, chin-lift.  Keep head in neutral position esp. for infants.  Clear airway if needed (roll patient for liquids, remove solid material with fingers.) If mouth or nose foam in a drowned patient: ignore it, do not waste time on suction, and continue CPR",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "B",
+          "text": "||p1|Breathing:|| Look and listen for breathing, feel for chest movement with your hand.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "C",
+          "text": "||p1|CPR:|| 30 compressions to 2 breaths (“30-to-2, no matter who”)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "D",
+          "text": "||p1|Defibrillation:|| Turn on AED, wipe chest if wet/sandy. While CPR continues, place AED pads on the chest as per illustrations on pads, follow AED voice prompts to either pause compressions, press a button to deliver a shock, or continue CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+      ]
+    }, {
+      "id": "2",
+      "title": "Recognising Shock",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Call an ambulance",
+        "Identify cause and treat (if possible)",
+        "Provide oxygen "
+      ],
+      "do": "Consider the cause of shock. For beachgoers blood loss (haemorrhagic shock), severe heart attack (cardiogenic shock), severe allergic reaction (anaphylactic shock), and heat stroke will be the likeliest causes of shock. Don’t give food or water, due to aspiration risk (inhaling vomitus into the lungs).Correctly identifying shock and communicating that precise word to the ambulance service is critically important for them to resource appropriate help in an appropriate timeframe, (i.e., a paramedic, sent immediately).",
+      "think": "The medical term “shock” means a life-threatening condition that often leads to organ failure and death. For a lifeguard communicating professionally, “shock” is NOT the term to use for an emotional response, such as ‘being scared, surprised, or speechless with fright’. These can be called “anxiety reactions”, never the medical term “shock”. Symptoms of shock may include: unconsciousness, confusion or agitation, rapid breathing, weak and rapid pulse, cold clammy and pale skin, nausea, or dizziness. Assessing for a change in condition is key. Symptoms, signs, and vital signs can vary dynamically. See ‘Chest Pain’, ‘Drowning’, Anaphylaxis’, ‘Bleeding’, ‘Heat Exhaustion / Heat Stroke’, ‘Neck / Spinal Injury, Intoxication / Overdose’.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have the patient lie down.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Try to identify the cause of shock and treat accordingly.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Administer oxygen for all types of shock. 8-10L via non-rebreather mask",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Frequently reassess DRSABCD ||||| Obtain vital signs: level of responsiveness (AVPU), heart rate, blood pressure, respiration rate, blood oxygen level if trained",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Prepare for the possibility of CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },
+    {
+      "id": "3",
+      "title": "The Unconscious Patient",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "The causes of unconsciousness are many, and the first aider must be systematic in working through the list.",
+      "priorities": [
+        "||#1|DRSABCD||",
+        "Consider alternative causes",
+        "'Think worst first'"
+      ],
+      "do": "Consider alternate, or multiple, causes. An unconscious patient with alcohol on their breath can also have a severe brain injury or low blood glucose levels. Don’t jump to conclusions.",
+      "think": "Does the patient have a known medical problem?\n\nDo they take any medications or illicit drugs?\n\nDo they have a medical alert bracelet?\n\nComplications from long-standing or recurrent health issues, or the medications they are treated with, should always be among the first suspected causes. \n\n“Think worst first”. What’s the worst (ie, most dangerous) thing this could be? And how do I best protect the patient if it is this?",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "||p1|Airway||\nTongue swelling/anaphylaxis, choking, head/neck/chest injury, obstruction from vomit, neck flexion (head slumped forward), brain injury, post-seizure, intoxication/overdose",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "||p1|Breathing||\nDrowning, chest trauma/broken ribs/collapsed lung, brain injury, asthma",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "||p1|Circulation||\nShock from any cause including cardiogenic shock (massive heart attack with acute heart failure), anaphylactic shock (life-threatening allergic reaction), haemorrhagic shock (massive bleeding), critical arrhythmia (dangerously irregular heartbeat)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "||p1|Disability||\nseizure, low blood sugar (hypoglycaemia), stroke, head injury, brain bleed (intracranial haemorrhage)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "||p1|Exposure||\nHypothermia (low temperature), hyperthermia (high temperature)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "||p1|Other causes||\nIntoxication/overdose, severe infection (e.g., meningitis)x ",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "4",
+      "title": "Drowning",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        " DRSABCD with a focus on early ventilation."
+      ],
+      "do": "Clear airway only if obstructed (roll patient for thick obstructing liquid such as vomit, manually remove solid material with fingers). If foam or thin non-obstructing liquid, these can be ignored and ventilation begun. \nPerform a head-tilt, chin-lift to ensure an open airway. \nInsert oropharyngeal and nasopharyngeal airways if patient is unresponsive. Perform ventilation (via mouth-to-face shield, mouth-to-pocket mask, mouth-to-mouth, or bag-valve-mask) as soon as possible. \nDo not delay starting ventilations to wait for a BVM. Pocket mask ventilations are often more effective than BVM. \nDo not delay BVM ventilation waiting for oxygen. Expired (exhaled) air and room air ventilation with a BVM (not yet attached to oxygen) each contain more than enough oxygen to save a drowning patient’s life. \nOnce oxygen is available, however, do not delay in using it, if trained. \nLook for chest rise with each successful rescue breath.",
+      "think": "There is no role for “compression only” or “hands only”  CPR in drowned patients. Early ventilation is key. All drowned patients require ventilations with air (or air supplemented with oxygen), very few will have a shockable rhythm requiring an AED. Ventilation is the priority.\n\nFoam is ever-present in most drowning resuscitations, do not waste time suctioning foam. Focus on good bag-valve-mask seal with a “2-handed, 2-thumbs down” technique and a slow and steady squeeze on the bag. Inflation pressures will be high, and a good mask seal essential. Slow steady inflation will help prevent insufflation of the stomach and decrease the risk of aspiration.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Unresponsive and not breathing normally: CPR with excellent airway and breathing management.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Unresponsive and breathing normally: recovery position and oxygen 15L/min by non-rebreather mask.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "5",
+      "title": "Asthma",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Remove from ‘trigger’",
+        "Assist the use of patients inhaler with space"
+      ],
+      "do": "Assist patients with taking their own medicine if lifeguard is 16 or older. \n\nReview patient between each 6 puffs of salbutamol: if able to speak more than 5-6 words can increase the time between doses of salbutamol. \n\nIf salbutamol is not available, or if patient is having respiratory difficulty, get a qualified lifeguard to administer oxygen.",
+      "think": "Severe asthma can lead to shock, respiratory arrest (patient stops breathing), or death. \n\nObtaining an adequate medical history can determine how bad the patient's asthma may get, e.g., have you ever been admitted to hospital or an intensive care unit with your asthma? \n\nSome modern asthma medicines are both a “preventer” and “reliever”, e.g., Symbicort. Symbicort can be used for rescue if no other inhaler is available. If available, a salbutamol inhaler is preferred.\n\nA spacer improves the effectiveness of the inhaler up to 50%, so always should be used if available.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have patient move into comfortable sitting position. Reassure.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Remove likely trigger of reaction, e.g,. dust.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Call an ambulance immediately if person has difficulty speaking two words, has a blue mouth/lips. Call ambulance if the patient does not have an inhaler in their possession.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "If patient has a salbutamol / “blue” inhaler, help them administer it.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Using patient’s salbutamol (aka Ventolin/Respigen) and spacer (if available), give 1 puff of salbutamol followed by 6 breaths via spacer, repeating until 6 puffs have been delivered. If no spacer, each puff is followed by a 10 second breath-hold if possible.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Prepare for the possibility of CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "6",
+      "title": "Anaphylaxis",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Administer Oxygen if avaliable ",
+        "Assist the use of the patients Epi-pen (adrenaline auto-injector)."
+      ],
+      "do": "Patients are often very hesitant to use their adrenaline.  Encourage them to take adrenaline (Epi-pen) well before they become critically ill or lose consciousness. If given ‘too early’, adrenaline is unlikely to cause any significant problem. If given ‘too late’, the patient may die.\nUnless otherwise stated on label, the preferred injection site for Epi-pen use is the upper outer thigh. \nCall an ambulance immediately if adrenaline is administered, as adrenaline is very short-acting and patient may have a short period of recovery then quickly worsen.",
+      "think": "Patients may have tongue swelling, wheeze, abdominal pain, or loss of consciousness. \nAnaphylaxis can lead to shock, respiratory arrest (patient stops breathing) or death. \nCommon causes of anaphylaxis include bee stings, medications such as penicillin and foods such as peanuts.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have patient lie or sit down, in position of comfort.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Remove likely trigger of reaction, e.g., bee stinger.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "If patient has Epi-pen (adrenaline autoinjector), use as per labelled instructions.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Administer oxygen to patient, if qualified.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Monitor for signs of shock.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "7",
+          "text": "Frequently recheck DRSABCD. Be prepared to perform CPR if patient becomes unresponsive and is not breathing normally.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "7",
+      "title": "Choking",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "Patient with partial or complete airway obstruction from a foreign body, usually food.",
+      "priorities": [
+        "DRSABCD",
+        "Identify partial or complete obstruction",
+        "Encourage coughing",
+        "If necessary provide back blows or chest thrusts."
+      ],
+      "do": "Back blows: give up to 5 hard blows between shoulder blades with heel of hand. \nChest thrusts: give up to 5 hard chest thrusts. Hug patient from behind with fist against lower sternum NOT upper abdomen. Use sharp, forceful, inward thrust, compressing chest. \nWhen performing back blows and chest thrusts, check if obstruction has cleared between each blow/thrust.",
+      "think": "Signs of choking: Distress, gasping, coughing, wheezing, inability to speak or placing one’s hands over the throat.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "If patient can breathe or cough, encourage them to cough repeatedly and remain calm. Do not let them drink. If patient cannot breathe, have a helper call an ambulance, while you deliver up to 5 strong back blows between the shoulder blades.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "If unsuccessful, deliver up to 5 chest (not abdominal) thrusts. Alternate 5 back blows with 5 chest thrusts until the obstruction is relieved or patient loses consciousness. ",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "If the patient is unresponsive and not breathing normally, begin CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "8",
+      "title": "Chest Pain & Heart Attack",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Call an ambulance",
+        "keep patient calm",
+        "administer aspirin (see below)"
+      ],
+      "do": "Consider the cause of shock. For beachgoers blood loss (haemorrhagic shock), severe heart attack (cardiogenic shock), severe allergic reaction (anaphylactic shock), and heat stroke will be the likeliest causes of shock. Don’t give food or water, due to aspiration risk (inhaling vomitus into the lungs).Correctly identifying shock and communicating that precise word to the ambulance service is critically important for them to resource appropriate help in an appropriate timeframe, (i.e., a paramedic, sent immediately).",
+      "think": "The medical term “shock” means a life-threatening condition that often leads to organ failure and death. For a lifeguard communicating professionally, “shock” is NOT the term to use for an emotional response, such as ‘being scared, surprised, or speechless with fright’. These can be called “anxiety reactions”, never the medical term “shock”. Symptoms of shock may include: unconsciousness, confusion or agitation, rapid breathing, weak and rapid pulse, cold clammy and pale skin, nausea, or dizziness. Assessing for a change in condition is key. Symptoms, signs, and vital signs can vary dynamically. See ‘Chest Pain’, ‘Drowning’, Anaphylaxis’, ‘Bleeding’, ‘Heat Exhaustion / Heat Stroke’, ‘Neck / Spinal Injury, Intoxication / Overdose’.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have the patient lie down.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Try to identify the cause of shock and treat accordingly.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Administer oxygen for all types of shock. 8-10L via non-rebreather mask",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Frequently reassess DRSABCD ||||| Obtain vital signs: level of responsiveness (AVPU), heart rate, blood pressure, respiration rate, blood oxygen level if trained",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Prepare for the possibility of CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "9",
+      "title": "Stroke",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Call 111 immediately"
+      ],
+      "do": "Do NOT give anything to eat or drink due to risk of aspiration. If vomiting, roll the patient onto side, clear airway manually.Unresponsive patient: see ‘DRSABCD’.",
+      "think": "Stroke-like symptoms can be caused by low blood sugar, and by post-ictal states after a seizure. Always check for medical alert bracelets.\n\nUse FAST to assess for stroke:\n||p1|Face:|| Is their face drooping on one side? Is their smile uneven? ||p1|Arms:|| Are they unable to raise both arms? ||p1|Speech:|| Is their speech jumbled, slurred, or absent? ||p1|Time:|| Time is critical, call 111 immediately.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Call an ambulance immediately.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": true
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Have patient lie or sit down in position of comfort.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Reassure patient and speak slowly/clearly if they have difficulty understanding.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "If qualified, check blood glucose level and provide result to ambulance staff.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+      ]
+    },{
+      "id": "10",
+      "title": "Seizure",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "Sudden uncontrolled electrical discharges in the brain, typically causing convulsions (fitting).",
+      "priorities": [
+        "DRSABCD",
+        "Call an ambulance",
+        "Ensure open airway",
+        "Provide oxygen ",
+        "Administer oxygen"
+      ],
+      "do": "Monitor duration of seizure and obtain medical history from whanau/friends. \nPatients with epilepsy should never swim alone. A seizure in water is life-threatening. Remove patient from water, prevent submersion/immersion of patient’s airway. \nIf airway becomes obstructed during the seizure, roll patient onto their side and clear secretions. Consider suctioning if available. If patient is unresponsive and not breathing normally, begin CPR.",
+      "think": "The stiffening-and-jerking phase of a seizure typically lasts less than one minute, followed by a period of sleepiness or confusion (post-ictal state) that typically lasts 5-20 minutes. \nSeizures may be due to underlying epilepsy (which occurs in 1% of the population). Seizures can also be caused by many other causes including: low blood sugar (hypoglycemia), overdose/poisoning, and brain injury. \nSeizures that are very high-risk: first-time seizures, seizures lasting longer than 5 minutes, two or more seizures without fully regaining consciousness, or seizure with any injuries. Communicate this information with the ambulance service as soon as possible. \nAfter a seizure, the patient should not drive. They will require medical assessment.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Move hazards away from the patient to protect from injury. ||p1|Do not restrain.||",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": true
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Following the period of uncontrolled jerking movements, roll patient into recovery position.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Open airway. Clear airway if needed. Check breathing.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Give oxygen to all patients who are seizing,  post-ictal, or have difficulty breathing, if qualified.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Check blood glucose level, if qualified. (< 4mmol indicates low blood glucose/hypoglycemia)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+        ,
+        {
+          "currentCount": "7",
+          "text": "Keep patient warm and comfortable. Reassure patient as they regain consciousness.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "11",
+      "title": "Intoxication & Overdose",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "Mental and/or physical impairment caused by excessive exposure to a substance.",
+      "priorities": [
+        "DRSABCD",
+        "Consider your own safety",
+        "Call an ambulance."
+      ],
+      "do": "If safe to do so, ask about:  substance taken, when taken, what quantity. \n||p1|Do not induce vomiting|| in any patient.\n||p1|Do not assume|| an unresponsive patient is intoxicated. A patient can appear drunk or smell of alcohol and also have a brain injury, seizure, or low blood glucose level.",
+      "think": "Signs/symptoms of intoxication include unsteadiness, agitation, hallucination, slurred speech, sleepiness, difficulty breathing, vomiting, coma, or loss of consciousness. Never assume an unresponsive patient is simply ‘drunk’, even if their breath smells of alcohol. The patient may also have had a low blood sugar (hypoglycaemia), seizure, stroke, choking, or anaphylaxis event. See “Head injury”, “Seizure”, “Stroke”. Some poisoning can lead to shock, see ‘Shock’. Some prescription drug combinations can cause dangerous symptoms. Always ask about medication history, past medical history, and check for medical alert bracelets.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "-",
+          "text": "If Agitated, aggressive or violent: Move away from patient. Ask bystanders to move away. Call 111 for police and ambulance. Observe patient from safe distance until scene made safe",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": true
+
+        },
+        {
+          "currentCount": "1",
+          "text": "If Unresponsive and breathing normally: Place in recovery position and open airway.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "If qualified, obtain a blood glucose level. Provide this to ambulance staff.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Frequently recheck DRSABCD",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Stay with the patient until the ambulance arrives.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "12",
+      "title": "Hypothermia",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Call an ambulance",
+        "Prevent further heat loss, warm the patient"
+      ],
+      "do": "Monitor vital signs including temperature every 15-30 minutes. \nIncrease temperature in the clubroom/vehicle.",
+      "think": "Signs may include shivering, slurred speech, confusion, or unresponsiveness, High-risk groups: post-immersion, elderly/frail, children, the intoxicated and those with injuries. Hypothermia wrap: heat source (hot water bottle), insulation (blanket), windproof (tarpaulin or jackets). Mylar/foil ‘rescue’ blankets are virtually useless as insulation.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Call an ambulance immediately.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": true
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Get the patient into warm shelter, if available.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Lie patient down. Remove all wet clothing. Dry patient gently.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Insulate the patient from the ground, protect from wind and water, wrap in blankets, cover head.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Place warm water bottles/heat packs around neck, armpits, groin.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "If alert: offer sweet, warm drinks (never coffee or alcohol); place under warm shower.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "7",
+          "text": "Frequently reassess ||#1|DRSABCD||",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+        ,
+        {
+          "currentCount": "8",
+          "text": "If the patient loses consciousness see the ||#1|DRSABCD|| section.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "13",
+      "title": "Heat Exhaustion and Heat Stroke",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Call 111",
+        "Cool the patient aggressively"
+      ],
+      "do": "Beware overcooling infants and children.",
+      "think": "Hyperthermia (elevated temperature): 38°C or above.\nHeat stroke: usually 40°C or greater.\nHeat exhaustion: brain still working normally, patient may have sweaty and cool skin.\n\nHeat stroke: brain affected, patient often hot and dry. Heat stroke is a type of shock. 10% die.\n\nRehydration liquid: water, or electrolyte drink (e.g. Powerade) if available.\n\nFever and shock can also be due to infection/drugs/overdose.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Call an ambulance immediately.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": true
+        },
+        {
+          "currentCount": "2",
+          "text": "Get patient into a cool, shaded location.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Remove excess clothing.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "IS RUNNING WATER AVALIABLE?",
+          "completed": "",
+          "conditional": true,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Frequently reassess DRSABCD ||||| Obtain vital signs: level of responsiveness (AVPU), heart rate, blood pressure, respiration rate, blood oxygen level if trained",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Prepare for the possibility of CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "14",
+      "title": "Burns",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Call an ambulance",
+        "Identify cause and treat (if possible)",
+        "Provide oxygen "
+      ],
+      "do": "Consider the cause of shock. For beachgoers blood loss (haemorrhagic shock), severe heart attack (cardiogenic shock), severe allergic reaction (anaphylactic shock), and heat stroke will be the likeliest causes of shock. Don’t give food or water, due to aspiration risk (inhaling vomitus into the lungs).Correctly identifying shock and communicating that precise word to the ambulance service is critically important for them to resource appropriate help in an appropriate timeframe, (i.e., a paramedic, sent immediately).",
+      "think": "The medical term “shock” means a life-threatening condition that often leads to organ failure and death. For a lifeguard communicating professionally, “shock” is NOT the term to use for an emotional response, such as ‘being scared, surprised, or speechless with fright’. These can be called “anxiety reactions”, never the medical term “shock”. Symptoms of shock may include: unconsciousness, confusion or agitation, rapid breathing, weak and rapid pulse, cold clammy and pale skin, nausea, or dizziness. Assessing for a change in condition is key. Symptoms, signs, and vital signs can vary dynamically. See ‘Chest Pain’, ‘Drowning’, Anaphylaxis’, ‘Bleeding’, ‘Heat Exhaustion / Heat Stroke’, ‘Neck / Spinal Injury, Intoxication / Overdose’.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have the patient lie down.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Try to identify the cause of shock and treat accordingly.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Administer oxygen for all types of shock. 8-10L via non-rebreather mask",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Frequently reassess DRSABCD ||||| Obtain vital signs: level of responsiveness (AVPU), heart rate, blood pressure, respiration rate, blood oxygen level if trained",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Prepare for the possibility of CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "15",
+      "title": "Bleeding & Wounds",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "Severe haemorrhage (bleeding), internal bleeding, minor bleeding, and wound care.",
+      "priorities": [
+        "DRSABCD",
+        "Gloves for protection",
+        "Firm, direct pressure."
+      ],
+      "do": "Consider the cause of shock. For beachgoers blood loss (haemorrhagic shock), severe heart attack (cardiogenic shock), severe allergic reaction (anaphylactic shock), and heat stroke will be the likeliest causes of shock. Don’t give food or water, due to aspiration risk (inhaling vomitus into the lungs).Correctly identifying shock and communicating that precise word to the ambulance service is critically important for them to resource appropriate help in an appropriate timeframe, (i.e., a paramedic, sent immediately).",
+      "think": "The medical term “shock” means a life-threatening condition that often leads to organ failure and death. For a lifeguard communicating professionally, “shock” is NOT the term to use for an emotional response, such as ‘being scared, surprised, or speechless with fright’. These can be called “anxiety reactions”, never the medical term “shock”. Symptoms of shock may include: unconsciousness, confusion or agitation, rapid breathing, weak and rapid pulse, cold clammy and pale skin, nausea, or dizziness. Assessing for a change in condition is key. Symptoms, signs, and vital signs can vary dynamically. See ‘Chest Pain’, ‘Drowning’, Anaphylaxis’, ‘Bleeding’, ‘Heat Exhaustion / Heat Stroke’, ‘Neck / Spinal Injury, Intoxication / Overdose’.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Put on gloves and eye protection.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Have the patient sit or lie down. ",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Quickly remove small or unembedded objects from wound (NOT embedded objects).",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Apply firm, direct, prolonged pressure (using clothing, a towel or a dressing). Have a helper call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": true
+
+        },
+        {
+          "currentCount": "5",
+          "text": "If bleeding stops, apply dressing and bandage. If firm, direct pressure fails, apply tourniquet and have helper continue firm, direct pressure. ",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Keep the patient warm and calm.\n\nRecheck DRSABCD and assess for other wounds.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "16",
+      "title": "Fractures / Dislocations",
+      "videoURL": "",
+      "meta": "This medical presention is under review.",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "Identify serious injuries",
+        "shock and neurovascular injuries",
+        "Call an ambulance",
+        "Optimise patient comfort."
+      ],
+      "do": "Check neurovascular status (comparing sides): \nArterial blood flow into limb (strong pulses, warm extremities). \nVenous blood flow out of limb (normal <2 second capillary refill, normal skin colour). \nPresence of nerve function (sensation intact and can move extremities). \n Find a qualified lifeguard for pain relief if required.",
+      "think": "Fracture: a broken bone. \nDislocation: when a joint is forced beyond its normal range of motion and bones moved out of place. \nStrain: over-stretched, ‘pulled’, or torn muscle \nSprain: stretching or mild partial tearing of a ligament \nContusion: bruise\n\nSigns of serious injury include: Significant bleeding Loss of ability to feel or move limb Open fracture (bone protruding) Shock Fracture of skull, face, spine, pelvis or thigh (see ‘shock’, and ‘spinal injury’ sections) Any long bone fracture e.g. Humerus, Femur",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have the patient lie down or in position of comfort. Control bleeding (if any)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": true
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Try to identify the cause of shock and treat accordingly.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Support/splint fractures for comfort if moving patient.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+      ]
+    },{
+      "id": "17",
+      "title": "Head Injury",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Be alert to concussion",
+        "Assess for other injuries, and refer appropriately"
+      ],
+      "do": "Call an ambulance for signs/symptoms of serious head injury: Loss of consciousness, Headache, Confusion, Disorientation, Slurred speech, Unsteadiness, Blurry vision, Vomiting, Seizure's. \nPatients with mild symptoms may be referred to their GP or urgent care centre. If unsure as to the severity of the injury, call an ambulance. If airway support is required in facial trauma DO NOT use nasopharyngeal airway adjuncts.",
+      "think": "Serious head injury can be caused by bleeding in the brain, and can lead to seizure, sudden deterioration, coma or death. \nA head injury may impair a patient’s ability to drive safely; consider other transport options for the patient. \nConcussions may be completely invisible and unnoticed at first, but can be associated with long-term problems with education, employment, and social function. All patients with suspected concussions should be referred to a doctor.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have the patient lie down.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Screen for all signs of serious head injury. If present, call an ambulance",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": true
+
+        },
+        {
+          "currentCount": "3",
+          "text": "If severely confused/not obeying commands provide high flow oxygen (if trained).",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Frequently reassess DRSABCD.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Prepare for seizure (see ‘Seizure’) or unresponsiveness (see ‘DRSABCD’).",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "18",
+      "title": "Neck & Spinal Injury",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "Injury to the spine with the rare risk of spinal cord (neurological) injury, sometimes associated with shallow-water head-first dives and play in breaking waves.",
+      "priorities": [
+        "DRSABCD",
+        "Manual in-line stabilisation",
+        "Call an ambulance"
+      ],
+      "do": "Use manual in-line stabilisation. Do not use cervical collars (C-collars, rigid collars) as these can cause harm and have no proven benefit. \nOnly attempt to move the patient if required for safety or managing ABCs. Airway and breathing may need to be managed in a patient with numbness or weakness and a painful neck (cervical) injury. \nUse a scoop stretcher rather than rigid backboard/spinal board if available. 4+ people (If performing MILS) are required to move the patient. \nUse a logroll (3+ people) to turn patient if required. Try to keep the head, neck, torso and pelvis in line. \nThe person holding the patient’s head gives the clear command: “Ready, Brace, Roll”.",
+      "think": "A conscious patient can usually stabilise their own neck in a position of comfort better than a rescuer can. Manual in-line stabilisation (MILS) maintains the patient's head in a neutral position using the lifeguard’s hands on either side of the patient’s head, holding the head in-line with the neck and torso. Be aware of the risk of shock, especially in a paralysed patient. See ‘Shock’.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "?",
+          "text": "If patient is conscious goto step",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "1",
+          "text": "Provide manual in-line stablisation (MILS) of cervical spine, with a hand on either side of head.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Support patient onto back or recovery position.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Folded towel under head to maintain neutral neck/airway position.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "END",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "-",
+          "text": "Start if patient is Conscious",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+        ,
+        {
+          "currentCount": "1",
+          "text": "Support patient to lie in position of comfort (e.g., on back or preferably in recovery position with head supported on blanket or towels)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Support patient to lie in position of comfort (e.g., on back or preferably in recovery position with head supported on blanket or towels)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Folded towel under head to maintain neutral neck/airway position if patient on their back (beware aspiration risk)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": true
+
+        }
+
+      ]
+    },{
+      "id": "19",
+      "title": "Lifeguard Health, Wellbeing & Safety",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "Ensure your physical, emotional, spiritual and whānau wellbeing is cared for, so you can care for others. Mauri tū mauri ora.",
+        "Be aware of your own limitations. Consider your physical capabilities and experience. If you have reservations about your participation, tell your senior member of your team as early as possible.",
+        "Pause to consider your own safety before entering a rescue scene. If you become injured you cannot help the patient in distress and may actually pull resources away from them."
+      ],
+      "do": "Pause before entering a first aid scene. Consider the D in DRSABCD. Think about potential dangers to yourself, the patient, and bystanders. Stand back in a safe position and call police if there are safety concerns. \nNever underestimate the safety risk posed by intoxicated people, or nearby vehicular traffic. \nNever take on a risk you don’t think you should. \nReport any risks, hazards, injuries or concerns to your supervisor so that they can be remedied and not continue to pose a hazard to others. \nEnsure time is taken to debrief following a major incident.",
+      "think": "If you develop concerns, share them with a senior member of your team. Feedback makes the team stronger. \nDon’t come to work if you feel sick. Spreading illness to others isn’t good teamwork. \nSelf-care is important. Take steps to build back your resilience following a major incident. Physical fitness is important to remaining injury-free, and adequate sleep and social supports are important to maintaining mental health.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "",
+          "text": "||p1|Personal Protective Equipment:||\nUse personal protective equipment appropriately; ideally carrying nitrile gloves and a CPR face shield with you at all times, with access to masks and eye protection. Take care around sharps and body fluids including blood, saliva, and vomit. Consider respiratory risks and use facemasks, distancing, and well-ventilated outdoor (rather than indoor) areas whenever possible to decrease your risk of respiratory exposure.\n\n||p1|Skin cancer risk minimisation:|| Avoid sun exposures between 10 and 4 when possible. Use portable or permanent shade, long-sleeved collared shirts, full-brimmed hats (not caps); use sleeved rash guards in the water. Use sunblock (magnesium or zinc-containing) rather than sunscreen when possible, reapplying liberally every 2 hours and after swimming/sweating. Blistering sunburns should be ‘never’ events, as even one under the age of 20 markedly increases the risk of melanoma, the most deadly type of skin cancer. Fair-skinned people are at greatly elevated risk of skin cancer due to UV exposure. New Zealand has some of the harshest UV levels on Earth (even on overcast days), and as a result, New Zealanders have the highest rates of skin cancer in the world.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "",
+          "text": "MANERS Psychological debrief",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "M",
+          "text": "Minimise exposure - Reduce members responding to serious incident (when possible)",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "A",
+          "text": "Acknowledge event - Acknowledge that event/incident is destressing",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "N",
+          "text": "Normalise reactions - Advise that everyone will react differently from event",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "E",
+          "text": "Educate - discuss what helps you, advise what possible symptoms could occur",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "R",
+          "text": "Review, refer, restore - Advise of referral options, encourage open talking of feelings from situation",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "S",
+          "text": "Self-care - Maintain your own health with diet, exercise and self review. Encourage the culture of talking of emotions",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "20",
+      "title": "Needlestick & Body-Fluid Exposure",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "Wear Gloves",
+        "Wear Eye Protection"
+      ],
+      "do": "In the case of needle puncture, attempt to bleed the site for 10 seconds. Clean and irrigate the affected area for 10 mins. \nRemove contact lenses from eyes before flushing. Do not reinsert lenses. \nFlush eyes with running water for 5 minutes.",
+      "think": "Report incident to SLSNZ and First Aid Officer for follow-up and ongoing testing following blood/body fluid exposure. \nCounseling service may be required for ongoing support",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Immediately wash the area thoroughly with soap and warm water.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "If soap/water is unavailable, use hand sanitiser.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "If the eyes have been contaminated, rinse copiously under running water.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Cover exposure site with a dressing.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Notify First Aid Officer and contact the GP, urgent care, or emergency department immediately.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "21",
+      "title": "Patient Handover",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "Gather information efficiently",
+        "Communicate clearly and concisely",
+        "Take no more than 60 seconds",
+        "Allow for questions and clarification"
+      ],
+      "do": "Assume leadership; you need not be the most experienced, but you should have a firm grasp of DRSABCD and be a clear communicator. \nAssign tasks early and clearly. Closed-loop communication means the follower verbally acknowledges what the leader has requested of them. \nThink aloud: the leader should say what they are thinking and provide occasional brief recaps, so that the team is all on the same page.\nAsk for input from team-members, and don’t become task-fixated. As a leader, try to keep your hands free if possible, so you can maintain situational awareness and can ‘see the big picture’. \nFollowers should feel free to speak up if they have an important suggestion, and speak firmly if they believe something harmful needs to be avoided. \nTeams should provide attending agencies, such as ambulance officers or helicopter crews, with written notes if possible.",
+      "think": "Documentation of first aid incidents is medically, operationally, and legally important. Injuries to SLSNZ members must be appropriately documented and reported. ",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "I",
+          "text": "Identification",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Mechanism of injury / Medical complaint",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Try to identify the cause of shock and treat accordingly.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Administer oxygen for all types of shock. 8-10L via non-rebreather mask",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Frequently reassess DRSABCD ||||| Obtain vital signs: level of responsiveness (AVPU), heart rate, blood pressure, respiration rate, blood oxygen level if trained",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Prepare for the possibility of CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "22",
+      "title": "Recognising Shock",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Call an ambulance",
+        "Identify cause and treat (if possible)",
+        "Provide oxygen "
+      ],
+      "do": "Consider the cause of shock. For beachgoers blood loss (haemorrhagic shock), severe heart attack (cardiogenic shock), severe allergic reaction (anaphylactic shock), and heat stroke will be the likeliest causes of shock. Don’t give food or water, due to aspiration risk (inhaling vomitus into the lungs).Correctly identifying shock and communicating that precise word to the ambulance service is critically important for them to resource appropriate help in an appropriate timeframe, (i.e., a paramedic, sent immediately).",
+      "think": "The medical term “shock” means a life-threatening condition that often leads to organ failure and death. For a lifeguard communicating professionally, “shock” is NOT the term to use for an emotional response, such as ‘being scared, surprised, or speechless with fright’. These can be called “anxiety reactions”, never the medical term “shock”. Symptoms of shock may include: unconsciousness, confusion or agitation, rapid breathing, weak and rapid pulse, cold clammy and pale skin, nausea, or dizziness. Assessing for a change in condition is key. Symptoms, signs, and vital signs can vary dynamically. See ‘Chest Pain’, ‘Drowning’, Anaphylaxis’, ‘Bleeding’, ‘Heat Exhaustion / Heat Stroke’, ‘Neck / Spinal Injury, Intoxication / Overdose’.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have the patient lie down.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Try to identify the cause of shock and treat accordingly.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Administer oxygen for all types of shock. 8-10L via non-rebreather mask",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Frequently reassess DRSABCD ||||| Obtain vital signs: level of responsiveness (AVPU), heart rate, blood pressure, respiration rate, blood oxygen level if trained",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Prepare for the possibility of CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "23",
+      "title": "Recognising Shock",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Call an ambulance",
+        "Identify cause and treat (if possible)",
+        "Provide oxygen "
+      ],
+      "do": "Consider the cause of shock. For beachgoers blood loss (haemorrhagic shock), severe heart attack (cardiogenic shock), severe allergic reaction (anaphylactic shock), and heat stroke will be the likeliest causes of shock. Don’t give food or water, due to aspiration risk (inhaling vomitus into the lungs).Correctly identifying shock and communicating that precise word to the ambulance service is critically important for them to resource appropriate help in an appropriate timeframe, (i.e., a paramedic, sent immediately).",
+      "think": "The medical term “shock” means a life-threatening condition that often leads to organ failure and death. For a lifeguard communicating professionally, “shock” is NOT the term to use for an emotional response, such as ‘being scared, surprised, or speechless with fright’. These can be called “anxiety reactions”, never the medical term “shock”. Symptoms of shock may include: unconsciousness, confusion or agitation, rapid breathing, weak and rapid pulse, cold clammy and pale skin, nausea, or dizziness. Assessing for a change in condition is key. Symptoms, signs, and vital signs can vary dynamically. See ‘Chest Pain’, ‘Drowning’, Anaphylaxis’, ‘Bleeding’, ‘Heat Exhaustion / Heat Stroke’, ‘Neck / Spinal Injury, Intoxication / Overdose’.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have the patient lie down.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Try to identify the cause of shock and treat accordingly.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Administer oxygen for all types of shock. 8-10L via non-rebreather mask",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Frequently reassess DRSABCD ||||| Obtain vital signs: level of responsiveness (AVPU), heart rate, blood pressure, respiration rate, blood oxygen level if trained",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Prepare for the possibility of CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    },{
+      "id": "24",
+      "title": "Recognising Shock",
+      "videoURL": "",
+      "meta": "",
+      "notes": "",
+      "closingText": "",
+      "emergencyInformation": "",
+      "shortDesc": "",
+      "priorities": [
+        "DRSABCD",
+        "Call an ambulance",
+        "Identify cause and treat (if possible)",
+        "Provide oxygen "
+      ],
+      "do": "Consider the cause of shock. For beachgoers blood loss (haemorrhagic shock), severe heart attack (cardiogenic shock), severe allergic reaction (anaphylactic shock), and heat stroke will be the likeliest causes of shock. Don’t give food or water, due to aspiration risk (inhaling vomitus into the lungs).Correctly identifying shock and communicating that precise word to the ambulance service is critically important for them to resource appropriate help in an appropriate timeframe, (i.e., a paramedic, sent immediately).",
+      "think": "The medical term “shock” means a life-threatening condition that often leads to organ failure and death. For a lifeguard communicating professionally, “shock” is NOT the term to use for an emotional response, such as ‘being scared, surprised, or speechless with fright’. These can be called “anxiety reactions”, never the medical term “shock”. Symptoms of shock may include: unconsciousness, confusion or agitation, rapid breathing, weak and rapid pulse, cold clammy and pale skin, nausea, or dizziness. Assessing for a change in condition is key. Symptoms, signs, and vital signs can vary dynamically. See ‘Chest Pain’, ‘Drowning’, Anaphylaxis’, ‘Bleeding’, ‘Heat Exhaustion / Heat Stroke’, ‘Neck / Spinal Injury, Intoxication / Overdose’.",
+      "immediateCall": "false",
+      "stepCounter": "3",
+      "step": [{
+          "currentCount": "1",
+          "text": "Have the patient lie down.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "2",
+          "text": "Call an ambulance.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "3",
+          "text": "Try to identify the cause of shock and treat accordingly.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "4",
+          "text": "Administer oxygen for all types of shock. 8-10L via non-rebreather mask",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "5",
+          "text": "Frequently reassess DRSABCD Obtain vital signs: level of responsiveness (AVPU), heart rate, blood pressure, respiration rate, blood oxygen level if trained",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        },
+        {
+          "currentCount": "6",
+          "text": "Prepare for the possibility of CPR.",
+          "completed": "",
+          "conditional": false,
+          "immediateCall": false
+
+        }
+
+      ]
+    }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+// id of the 
+id = 4
+title = 
+videoURL=
+meta =
+notes=
+closingText=
+emergencyInformation=
+shortDesc= 
+priorities[]=one,two,three,four
+do =
+think =
+immediateCall= false
+stepCounter= 3
+step[0]
+   text =
+   completed = 
+   conditional=true
+   question =
+   response[]
+    button1[]
+      displayText=YES
+      gotoNext=
+    button2[]
+      displayText=NO
+      gotoNext=
+step[1]
+   text
+   completed = 
+   question =
+   response[]
+    button1[]
+      displayText=YES
+      gotoNext=
+    button2[]
+      displayText=YES
+      gotoNext=

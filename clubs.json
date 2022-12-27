@@ -1,0 +1,210 @@
+{
+    "lifesaving": [
+
+        {
+            "club": {
+                "id": "0",
+                "clubName": "Bethells Beach SLSC",
+                "email": "president@bethellsbeach.org.nz",
+                "website": "http://www.bethellsbeach.org.nz",
+                "phone": "09 810 9587",
+                "address": {
+                    "physical": "211 Bethells Road, Bethells Beach RD 1, Auckland 0781",
+                    "postal": "PO Box 25 Township Road, Waitakere, Auckland 0816"
+                },
+                "contact": [{
+                    "name": "Sue Brewster",
+                    "phone": "",
+                    "email": ""
+                }]
+            }
+        },
+        {
+            "club": {
+                "id": "1",
+                "clubName": "Brighton SLSC",
+                "email": "brightonslsc@xtra.co.nz",
+                "website": "",
+                "phone": "643 4811724",
+                "address": {
+                    "physical": "1047 Brighton Road, Brighton, Dunedin",
+                    "postal": "PO Box 13017, Green Island, Dunedin 9052"
+                },
+                "contact": [{
+                    "name": "",
+                    "phone": "",
+                    "email": ""
+                }]
+            }
+        },
+        {
+            "club": {
+                "id": "2",
+                "clubName": "Buller SLSC",
+                "email": "",
+                "website": "",
+                "phone": "643 7896984",
+                "address": {
+                    "physical": "",
+                    "postal": "C Coll, PO Box 204, Westport"
+                },
+                "contact": [{
+                    "name": "",
+                    "phone": "",
+                    "email": ""
+                }]
+            }
+        },
+        {
+            "club": {
+                "id": "3",
+                "clubName": "East End SLSC",
+                "email": "eastendslsc@yahoo.com",
+                "website": "http://www.eastendslsc.org.nz/",
+                "phone": "+646 7575598",
+                "address": {
+                    "physical": "Nobs Line, Strandon, New Plymouth 4312",
+                    "postal": "PO Box 3399, Fitzroy, New Plymouth 4340"
+                },
+                "contact": [{
+                    "name": "Stuart Pratt",
+                    "phone": "",
+                    "email": ""
+                }]
+            }
+        },
+        {
+            "club": {
+                "id": "4",
+                "clubName": "Far North SLSC",
+                "email": "twalkerfnsr@gmail.com",
+                "website": "",
+                "phone": "+642102862667",
+                "address": {
+                    "physical": "Far North Surf Rescue, 43 Takahe Road, Ahipara Beach",
+                    "postal": "PO Box 2, Ahipara 0481"
+                },
+                "contact": [{
+                    "name": "Tony Walker",
+                    "phone": "642102862667",
+                    "email": ""
+                }]
+            }
+        },
+        {
+            "club": {
+                "id": "5",
+                "clubName": "Fitzroy SLSC",
+                "email": "secretary@fitzroyslsc.co.nz",
+                "website": "http://www.fitzroyslsc.co.nz/",
+                "phone": "646 758 6743",
+                "address": {
+                    "physical": "Beach Street, Fitzroy, New Plymouth",
+                    "postal": "PO Box 3099, Fitzroy, New Plymouth 4341"
+                },
+                "contact": [{
+                    "name": "Alison Cole",
+                    "phone": "6427 4442232",
+                    "email": ""
+                }]
+            }
+        }  
+        ,
+        {
+            "club": {
+                "id": "6",
+                "clubName": "Foxton SLSC",
+                "email": "administration@foxtonslsc.co.nz",
+                "website": "",
+                "phone": "06 363 8043",
+                "address": {
+                    "physical": "",
+                    "postal": "PO Box 163, Foxton 4848"
+                },
+                "contact": [{
+                    "name": "Rachel Straker",
+                    "phone": "",
+                    "email": ""
+                }]
+            }
+        } 
+        ,
+        {
+            "club": {
+                "id": "7",
+                "clubName": "Hot Water Beach SLSC",
+                "email": "hindzy@xtra.co.nz",
+                "website": "",
+                "phone": "647 8663589",
+                "address": {
+                    "physical": "Pye Place, Hot Water Beach 3591",
+                    "postal": "PO Box 103, Whitianga 3542"
+                },
+                "contact": [{
+                    "name": "Sandi Lowe",
+                    "phone": "647 8663589",
+                    "email": ""
+                }]
+            }
+        }
+        ,
+        {
+            "club": {
+                "id": "8",
+                "clubName": "Kaka Point SLSC",
+                "email": "kakapointsurflifesavingclub@gmail.com",
+                "website": "",
+                "phone": "643 412 8808",
+                "address": {
+                    "physical": "25 Esplanade, Kaka Point, Balcutha 9271",
+                    "postal": "PO Box 353, Balclutha, 9240"
+                },
+                "contact": [{
+                    "name": "Mark Van Asperen",
+                    "phone": "",
+                    "email": ""
+                }]
+            }
+        }
+        ,
+        {
+            "club": {
+                "id": "9",
+                "clubName": "Kare Kare SLSC",
+                "email": "secretary@karekaresurfclub.org.nz",
+                "website": "http://www.karekaresurfclub.org.nz",
+                "phone": "6498128871",
+                "address": {
+                    "physical": "34 Watchmans Road, Karekare 0772",
+                    "postal": "34 Watchmans Road, RD 2 New Lynn, Karekare 0772"
+                },
+                "contact": [{
+                    "name": "Teresa Harvey",
+                    "phone": "09 8148760",
+                    "email": ""
+                }]
+            }
+        }
+        ,
+        {
+            "club": {
+                "id": "10",
+                "clubName": "Karioatahi SLSC",
+                "email": "secretary@kariaotahi.org.nz",
+                "website": "http://www.kariaotahi.org.nz",
+                "phone": "649 2358470",
+                "address": {
+                    "physical": "Kariaotahi Road, Waiuku",
+                    "postal": "20 Beach Road, Glenbrook Beach RD 1, Waiuku 2681"
+                },
+                "contact": [{
+                    "name": "Michael Lawrence",
+                    "phone": "",
+                    "email": ""
+                }]
+            }
+        } 
+        
+        
+
+    ]}
